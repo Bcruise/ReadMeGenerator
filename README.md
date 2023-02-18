@@ -1,12 +1,10 @@
-// function to generate markdown for README
-function generateMarkdown(data, license) {
-  return `## ${data.title}
+## README.md Generator
 
-  ${license}
+  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
   # Description
 
-  ${data.description}
+  A Readme generator created via the command line, that when the user is prompted to answer questions about their project, a professional README.md is generated.
 
   ## Table of Contents
 
@@ -19,34 +17,30 @@ function generateMarkdown(data, license) {
 
   ## Installation
 
-  ${data.installation}
+  Clone
 
   ## Usage
 
-  ${data.usage}
+  d
 
   ## License
 
-  ${data.license}
+  Mozilla
 
   ## Contributing
 
-  ${data.contribution}
+  d
 
   ## Tests
 
-  ${data.test}
+  d
 
   ## Questions
 
   If you have any questions, please don't hesitate to check the repository or contact the email address below.
 
-  GitHub repository - 'https://github.com/${data.GitHub}'
-  Email address for further questions - ${data.email}
+  GitHub repository - 'https://github.com/d'
+  Email address for further questions - d
   
   
   This README.md file was created using Node.
-`;
-}
-
-module.exports = generateMarkdown;
