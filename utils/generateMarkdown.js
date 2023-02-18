@@ -41,7 +41,7 @@ function generateMarkdown(data, license) {
 
   If you have any questions, please don't hesitate to check the repository or contact the email address below.
 
-  GitHub repository - 'https://github.com/${data.GitHub}'
+  GitHub repository - https://github.com/${data.GitHub}
   Email address for further questions - ${data.email}
   
   

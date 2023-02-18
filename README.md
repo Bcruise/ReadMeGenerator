@@ -1,10 +1,10 @@
-## g
+## d
 
-  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+  [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
   # Description
 
-  g
+  d
 
   ## Table of Contents
 
@@ -17,30 +17,30 @@
 
   ## Installation
 
-  g
+  d
 
   ## Usage
 
-  g
+  d
 
   ## License
 
-  Mozilla
+  GNU AGPLv3
 
   ## Contributing
 
-  g
+  d
 
   ## Tests
 
-  g
+  d
 
   ## Questions
 
   If you have any questions, please don't hesitate to check the repository or contact the email address below.
 
-  GitHub repository - 'https://github.com/Bcruise'
-  Email address for further questions - ben_cruise@hotmail.co.uk
+  GitHub repository - https://github.com/Bcruise
+  Email address for further questions - d
   
   
   This README.md file was created using Node.
