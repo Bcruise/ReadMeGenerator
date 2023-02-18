@@ -1,10 +1,10 @@
-## README.md Generator
+## g
 
   [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
   # Description
 
-  A Readme generator created via the command line, that when the user is prompted to answer questions about their project, a professional README.md is generated.
+  g
 
   ## Table of Contents
 
@@ -17,11 +17,11 @@
 
   ## Installation
 
-  Clone
+  g
 
   ## Usage
 
-  d
+  g
 
   ## License
 
@@ -29,18 +29,18 @@
 
   ## Contributing
 
-  d
+  g
 
   ## Tests
 
-  d
+  g
 
   ## Questions
 
   If you have any questions, please don't hesitate to check the repository or contact the email address below.
 
-  GitHub repository - 'https://github.com/d'
-  Email address for further questions - d
+  GitHub repository - 'https://github.com/Bcruise'
+  Email address for further questions - ben_cruise@hotmail.co.uk
   
   
   This README.md file was created using Node.
