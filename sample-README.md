@@ -1,12 +1,10 @@
-// function to generate markdown for README
-function generateMarkdown(data, license) {
-  return `## ${data.title}
+## Readme generator
 
-  ${license}
+  [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
   # Description
 
-  ${data.description}
+  dynamically created readme file
 
   ## Table of Contents
 
@@ -19,35 +17,31 @@ function generateMarkdown(data, license) {
 
   ## Installation
 
-  ${data.installation}
+  clone to your terminal from GitHub
 
   ## Usage
 
-  ${data.usage}
+  Answer questions presented
 
   ## License
 
-  ${data.license}
+  GNU AGPLv3
 
   ## Contributing
 
-  ${data.contribution}
+  contact bcruise github account
 
   ## Tests
 
-  ${data.test}
+  check file after completion
 
   ## Questions
 
   If you have any questions, please don't hesitate to check the repository or contact the email address below.
 
-  GitHub repository - https://github.com/${data.GitHub}
+  GitHub repository - https://github.com/Bcruise
 
-  Email address for further questions - ${data.email}
+  Email address for further questions - email@email.com
   
   
   This README.md file was created using Node.
-`;
-}
-
-module.exports = generateMarkdown;

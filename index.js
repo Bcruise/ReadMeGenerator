@@ -81,9 +81,8 @@ async function init() {
     try {
         const answers = await inquirer.prompt(questions);
         let license = whichLicenseBadge(answers.license);
-        console.log(license);
         const toGenerateMarkdown = generateMarkdown(answers, license);
-        fs.writeFileSync('README.md', toGenerateMarkdown);
+        fs.writeFileSync('sample-README.md', toGenerateMarkdown);
     } catch(err) {
         throw err;
     }
